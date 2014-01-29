@@ -14,7 +14,11 @@ Install the Vagrant Berkshelf plugin
 
     $ vagrant plugin install vagrant-berkshelf
 
-Once the installation is done development instance can be started 
+Clone project
+
+    $ git clone git@github.com:almamedia/project-template.git
+
+Once the installation is done development instance can be started (in project folder)
 
     $ vagrant up
 
